@@ -21,4 +21,4 @@ In short, we have a better chance of winning in our imaginary game than in Roule
 ## Below is an image showing the scenario of Player's money as it changes with the number of bets placed. Therefore it is favourable to make small umber of bets. 
 <img src="https://github.com/shivamshan/MONTE-CARLO-SIMULATIONS/blob/master/MONTE%20CARLO%20SIMULATION/output_9_1.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     >
