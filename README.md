@@ -17,4 +17,7 @@ For comparison, the lowest house edge in European Roulette is 2.7%.
 </br>
 In short, we have a better chance of winning in our imaginary game than in Roulette.
 </br>
-<img src="https://github.com/shivamshan/MONTE-CARLO-SIMULATIONS/blob/master/MONTE%20CARLO%20SIMULATION/output_9_1.png>
+
+<img src="https://github.com/shivamshan/MONTE-CARLO-SIMULATIONS/blob/master/MONTE%20CARLO%20SIMULATION/output_9_1.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
